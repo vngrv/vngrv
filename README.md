@@ -1,5 +1,4 @@
-<h2>Vengerov Dmitry </h2>
-<h1>Software Engineer</h1>
+<h2>Software Engineer</h2>
 
 - Core stack: PHP, JS
 - Interest: Ruby, Go
