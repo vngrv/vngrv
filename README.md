@@ -1,7 +1,7 @@
 <h2>Software Engineer</h2>
 
-- Core stack: PHP, JS
-- Interest: Ruby, Go
+- Core stack: JS
+- Interest: Ruby, Go, Node JS
 - Use: Vim, Docker, Mechanical Keyboard
 - Faith: Clean code
 
